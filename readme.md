@@ -148,8 +148,8 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 
 ## 📽️ Demo
 
-🎥 **Demo Video:** *Coming Soon*
-🌐 **Live Website:** *https://student-helpdesk-f4987.web.app/*
+🎥 **Demo Video:** *https://drive.google.com/file/d/1WKolKgr4np_-KJQcXdrbVLQjfxiHwZ-K/view?usp=drivesdk*
+🌐 **Live Website:** *https://ramanujam-skill-share-platform.netlify.app/*
 
 ---
 
@@ -165,8 +165,9 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 
 ## 🤝 Contributors
 
-* **Bhuvaneshwar TS** – Backend Developer
-* **Nitesh ND** – Frontend Developer
+* **Bhuvaneshwar TS** – Backend Lead
+* **Nitesh ND** – Frontend Lead
+* **Yuvasri K** - Backend Developer
 
 ---
 
