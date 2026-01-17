@@ -167,7 +167,7 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 
 * **Bhuvaneshwar TS** – Backend Lead
 * **Nitesh ND** – Frontend Lead
-* **Ramanujam P(me) - Frontend Developer
+* **Ramanujam P(me)** - Frontend Developer
 * **Yuvasri K** - Backend Developer
 
 ---
