@@ -149,7 +149,7 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 ## 📽️ Demo
 
 🎥 **Demo Video:** *https://drive.google.com/file/d/1WKolKgr4np_-KJQcXdrbVLQjfxiHwZ-K/view?usp=drivesdk*
-🌐 **Live Website:** *https://ramanujam-skill-share-platform.netlify.app/*
+🌐 **Live Website:** *https://student-helpdesk-f4987.web.app/*
 
 ---
 
